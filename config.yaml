@@ -1,5 +1,5 @@
 ---
-baseurl: "http://isthehyperloopbuiltyet.com"
+baseurl: "https://isthehyperloopbuiltyet.herokuapp.com/"
 title: "Is the Hyperloop built yet?"
 languageCode: "en-us"
 theme: "hugo-theme-air"
